@@ -1,0 +1,7 @@
+*.ini
+*.htm
+PCB/fotopolim_v0.$$$
+*.LOG
+*.PcbDocPreview
+*.OutJob
+*.SchDocPreview

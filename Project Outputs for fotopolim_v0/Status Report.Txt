@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [fotopolim_v0.PrjPCB]
+   Generated File[Copy of fotopolim_v0.GTL]
+   Generated File[Copy of fotopolim_v0.GBL]
+   Generated File[Copy of fotopolim_v0.GPB]
+   Generated File[Copy of fotopolim_v0.GPT]
+   Generated File[Copy of fotopolim_v0.GTO]
+   Generated File[Copy of fotopolim_v0.GTP]
+   Generated File[Copy of fotopolim_v0.GTS]
+   Generated File[Copy of fotopolim_v0.GBS]
+   Generated File[Copy of fotopolim_v0.GM1]
+   Generated File[Copy of fotopolim_v0.GM8]
+   Generated File[Copy of fotopolim_v0.GM13]
+   Generated File[Copy of fotopolim_v0.GM14]
+   Generated File[Copy of fotopolim_v0.GM15]
+   Generated File[Copy of fotopolim_v0.RUL]
+   Generated File[Copy of fotopolim_v0.EXTREP]
+   Generated File[Copy of fotopolim_v0.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 07:41:22 On 29/06/2016
