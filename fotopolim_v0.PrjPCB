@@ -48,7 +48,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=PCB\Copy of fotopolim_v0.PcbDoc
+DocumentPath=PCB\fotopolim_v0_C.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=Project Outputs for fotopolim_v0\CAMtastic_drill3.Cam
+DocumentPath=Project Outputs for fotopolim_v0\CAMtastic_gerbersC.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +96,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=Project Outputs for fotopolim_v0\CAMtastic_gerbers3.Cam
+DocumentPath=Project Outputs for fotopolim_v0\CAMtastic_drillC.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -200,99 +200,91 @@ DocumentPath=Project Outputs for fotopolim_v0\Copy of fotopolim_v0.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0-SquareHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
 DocumentPath=PCB\fotopolim_v0.PcbDoc.htm
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.REP
+[GeneratedDocument24]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument46]
-DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0.RUL
+[GeneratedDocument25]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C-SquareHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.REP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for fotopolim_v0\fotopolim_v0_C.RUL
 DItemRevisionGUID=
 
 [Configuration1]

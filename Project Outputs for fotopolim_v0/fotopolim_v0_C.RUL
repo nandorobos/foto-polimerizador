@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Google Drive\Robotize\Projetos\foto polimerizador\PCI - Foto polimerizador\foto-polimerizador\PCB\fotopolim_v0_C.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

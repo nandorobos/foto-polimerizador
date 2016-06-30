@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Google Drive\Robotize\Projetos\foto polimerizador\PCI - Foto polimerizador\foto-polimerizador\PCB\fotopolim_v0_C.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=fotopolim_v0_c-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=fotopolim_v0_c-squareholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=fotopolim_v0_c-slotholes.txt|LayerPairs=gtl,gbl

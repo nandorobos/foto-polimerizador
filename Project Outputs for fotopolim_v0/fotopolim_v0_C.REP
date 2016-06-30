@@ -1,9 +1,9 @@
 *************************************************************
-FileName = Copy of fotopolim_v0.GBR
+FileName = fotopolim_v0_C.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top Layer
-      File : Copy of fotopolim_v0.GTL
+      File : fotopolim_v0_C.GTL
 
     Adding Layer      : Top Layer
 
@@ -49,11 +49,14 @@ Used DCodes :
     D43
     D44
     D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
 Generating : Bottom Layer
-      File : Copy of fotopolim_v0.GBL
+      File : fotopolim_v0_C.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -63,22 +66,26 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D27
-    D28
+    D26
+    D30
+    D33
+    D34
+    D36
     D37
-    D38
-    D39
     D40
     D41
     D42
     D43
     D44
     D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
 Generating : Bottom Pad Master
-      File : Copy of fotopolim_v0.GPB
+      File : fotopolim_v0_C.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -88,20 +95,20 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D37
-    D38
-    D39
     D40
     D41
     D42
     D43
     D44
     D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
 Generating : Top Pad Master
-      File : Copy of fotopolim_v0.GPT
+      File : fotopolim_v0_C.GPT
 
     Adding Layer      : Top Layer
 
@@ -126,20 +133,21 @@ Used DCodes :
     D22
     D23
     D24
-    D37
-    D38
-    D39
+    D25
     D40
     D41
     D42
     D43
     D44
     D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : Copy of fotopolim_v0.GTO
+      File : fotopolim_v0_C.GTO
 
     Adding Layer      : Top Overlay
 
@@ -147,17 +155,17 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D35
-    D37
-    D38
-    D46
-    D47
-    D48
+    D34
+    D40
+    D41
+    D49
+    D50
+    D51
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : Copy of fotopolim_v0.GTP
+      File : fotopolim_v0_C.GTP
 
     Adding Layer      : Top Paste
 
@@ -184,13 +192,14 @@ Used DCodes :
     D22
     D23
     D24
-    D37
-    D38
+    D25
+    D40
+    D41
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : Copy of fotopolim_v0.GTS
+      File : fotopolim_v0_C.GTS
 
     Adding Layer      : Top Solder
 
@@ -202,11 +211,8 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D37
-    D38
-    D49
-    D50
-    D51
+    D40
+    D41
     D52
     D53
     D54
@@ -226,11 +232,15 @@ Used DCodes :
     D68
     D69
     D70
+    D71
+    D72
+    D73
+    D74
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : Copy of fotopolim_v0.GBS
+      File : fotopolim_v0_C.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -242,20 +252,20 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D37
-    D38
-    D64
-    D65
-    D66
-    D67
+    D40
+    D41
     D68
     D69
     D70
+    D71
+    D72
+    D73
+    D74
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 1
-      File : Copy of fotopolim_v0.GM1
+      File : fotopolim_v0_C.GM1
 
     Adding Layer      : Mechanical 1
 
@@ -263,13 +273,13 @@ Generating : Mechanical 1
 
 
 Used DCodes :
-    D37
-    D38
+    D40
+    D41
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 8
-      File : Copy of fotopolim_v0.GM8
+      File : fotopolim_v0_C.GM8
 
     Adding Layer      : Mechanical 8
 
@@ -277,14 +287,14 @@ Generating : Mechanical 8
 
 
 Used DCodes :
-    D37
-    D38
-    D71
+    D40
+    D41
+    D75
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 13
-      File : Copy of fotopolim_v0.GM13
+      File : fotopolim_v0_C.GM13
 
     Adding Layer      : Mechanical 13
 
@@ -292,14 +302,14 @@ Generating : Mechanical 13
 
 
 Used DCodes :
-    D37
-    D38
-    D71
+    D40
+    D41
+    D75
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 14
-      File : Copy of fotopolim_v0.GM14
+      File : fotopolim_v0_C.GM14
 
     Adding Layer      : Mechanical 14
 
@@ -307,14 +317,14 @@ Generating : Mechanical 14
 
 
 Used DCodes :
-    D37
-    D38
-    D71
+    D40
+    D41
+    D75
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 15
-      File : Copy of fotopolim_v0.GM15
+      File : fotopolim_v0_C.GM15
 
     Adding Layer      : Mechanical 15
 
@@ -322,9 +332,9 @@ Generating : Mechanical 15
 
 
 Used DCodes :
-    D37
-    D38
-    D71
-    D72
+    D40
+    D41
+    D75
+    D76
 *************************************************************
 
